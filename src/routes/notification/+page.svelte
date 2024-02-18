@@ -173,7 +173,7 @@
 									showDeleteModal(row);
 								}}
 							>
-								<i class="fa-solid fa-trash" />
+								<span class="material-symbols-outlined mr-2"> calendar_month </span>
 								<span>Remove</span>
 							</button>
 						</td>

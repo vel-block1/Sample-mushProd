@@ -1,0 +1,1 @@
+function a(t,o){const r={message:o,background:"variant-filled-success",timeout:5e3};t.trigger(r)}function e(t,o){const r={message:o,background:"variant-filled-error",timeout:5e3};t.trigger(r)}function s(t,o){const r={message:o,background:"variant-filled-tertiary",timeout:5e3};t.trigger(r)}export{e as a,s as b,a as s};
