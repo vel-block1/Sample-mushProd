@@ -1,0 +1,1 @@
+import{a as r}from"./index.DTi6dYAV.js";function d(){return r(new Date,"MMMM dd, yyyy")}function c(){const e=new Date;let t=e.getHours();const o=e.getMinutes().toString().padStart(2,"0"),a=e.getSeconds().toString().padStart(2,"0"),n=t>=12?"PM":"AM";return t=t%12||12,`${t}:${o}:${a} ${n}`}export{d,c as u};
